@@ -4,6 +4,8 @@ Sitio para recopilar los trabajos que he hecho durante el bootcamp.
 
 ## TRABAJOS MODULO 2
 [Link al repositorio](https://github.com/avacco/Modulo2).
+[Link al trabajo final](https://github.com/avacco/Grupo2).
+
 
 En mostrable: <br>
 Muchos de estos trabajos no tendran sentido como mostrable sin ver el codigo fuente, solo existen aqui para demostrar lo que se hizo en clases.
