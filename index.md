@@ -3,7 +3,7 @@
 Sitio para recopilar los trabajos que he hecho durante el bootcamp.
 
 ## TRABAJOS MODULO 2
-[Link al repositorio](https://github.com/avacco/Modulo2).
+[Link al repositorio](https://github.com/avacco/Modulo-2-Desarrollo-Front-End).
 [Link al trabajo final](https://github.com/avacco/Grupo2).
 
 
