@@ -5,7 +5,8 @@ Sitio para recopilar los trabajos que he hecho durante el bootcamp.
 ## TRABAJOS MODULO 2
 [Link al repositorio](https://github.com/avacco/Modulo2).
 
-Mostrables:
+En mostrable: <br>
+Muchos de estos trabajos no tendran sentido como mostrable sin ver el codigo fuente, solo existen aqui para demostrar lo que se hizo en clases.
 - [Practica CSS](https://avacco.github.io/Modulo2/Apuntes_varios/css.html)
 - [Practica HTML](https://avacco.github.io/Modulo2/Apuntes_varios/index.html)
 - [Practica con Bootstrap](https://avacco.github.io/Modulo2/Bootstrap_practica/index.html)
