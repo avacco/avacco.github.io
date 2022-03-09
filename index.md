@@ -17,6 +17,8 @@ Muchos de estos trabajos no tendran sentido como mostrable sin ver el codigo fue
 - [Desafio Login 30 minutos](https://avacco.github.io/Modulo2/DesafioLogin30min/tarealogin.index.html)
 - [Calculadora con JS](https://avacco.github.io/Modulo2/Desafio_Calculadora_JS/calculadora.html)
 - [Actividad caso "Centro Deportivo"](https://avacco.github.io/Modulo2/Tarea_principal/proyecto/index.html)
+- [Actividad final caso "Auto Limpio"](https://avacco.github.io/Modulo2/Actividad_final/AutoLimpio/index.html)
+
 
 ## TRABAJOS MODULO 3
 [Link al drive con evidencias](https://drive.google.com/drive/u/1/folders/13mTvsWhjW2SQ2GkLl2vlP9FZ8I5QQYMn).
