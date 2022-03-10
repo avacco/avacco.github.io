@@ -26,4 +26,4 @@ Muchos de estos trabajos no tendran sentido como mostrable sin ver el codigo fue
 [Link al drive con evidencias](https://drive.google.com/drive/u/1/folders/13mTvsWhjW2SQ2GkLl2vlP9FZ8I5QQYMn).
 
 ## TRABAJOS MODULO 4
-[Link al repositorio](https://github.com/avacco/Modulo4).
+[Link al repositorio](https://github.com/avacco/Modulo-4-Fundamentos-Programacion-Java).
