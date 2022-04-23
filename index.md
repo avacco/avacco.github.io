@@ -6,7 +6,7 @@ Sitio para recopilar los trabajos que he hecho durante el bootcamp.
 Este modulo fue exclusivamente de orientación y no se hicieron trabajos mostrables.
 
 ## MÓDULO 2: FUNDAMENTOS DE DESARROLLO FRONT-END
-Nuestra primera experiencia con código.
+Nuestra primera experiencia con código. <br>
 [Link al repositorio](https://github.com/avacco/Modulo-2-Desarrollo-Front-End).
 [Link al trabajo final](https://github.com/avacco/Grupo2).
 
@@ -19,13 +19,13 @@ En mostrable: <br>
 
 
 ## MÓDULO 3: FUNDAMENTOS DE BASES DE DATOS RELACIONALES
-No habia tomado apuntes mas alla de las piezas de codigo que escribia, cuando empecé a hacerlo lo hice desde un drive.
+No habia tomado apuntes mas alla de las piezas de codigo que escribia, cuando empecé a hacerlo lo hice desde un drive. <br>
 [Link al drive con evidencias](https://drive.google.com/drive/u/1/folders/13mTvsWhjW2SQ2GkLl2vlP9FZ8I5QQYMn).
 
 ## MÓDULO 4: FUNDAMENTOS DE PROGRAMACIÓN EN JAVA
-A este punto ya me habia familiarizado un poco mejor con git, github y los lenguajes que vamos aprendiendo.
+A este punto ya me habia familiarizado un poco mejor con git, github y los lenguajes que vamos aprendiendo. <br>
 [Link al repositorio](https://github.com/avacco/Modulo-4-Fundamentos-Programacion-Java).
 
 ## MÓDULO 5: DESARROLLO DE APLICACIONES WEB DINÁMICAS JAVA
-Me gusta pensar que me he puesto mas ordenado en cuanto a apuntes y trabajos.
+Me gusta pensar que me he puesto mas ordenado en cuanto a apuntes y trabajos. <br>
 [Link al repositorio](https://github.com/avacco/Modulo-5-Desarrollo-web-Java).
