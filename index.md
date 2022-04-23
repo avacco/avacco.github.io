@@ -2,28 +2,30 @@
 
 Sitio para recopilar los trabajos que he hecho durante el bootcamp.
 
-## TRABAJOS MODULO 2
+## MÓDULO 1: ORIENTACIÓN AL PERFIL Y METODOLOGÍA DEL CURSO
+Este modulo fue exclusivamente de orientación y no se hicieron trabajos mostrables.
+
+## MÓDULO 2: FUNDAMENTOS DE DESARROLLO FRONT-END
+Nuestra primera experiencia con código.
 [Link al repositorio](https://github.com/avacco/Modulo-2-Desarrollo-Front-End).
 [Link al trabajo final](https://github.com/avacco/Grupo2).
 
 
 En mostrable: <br>
-Muchos de estos trabajos no tendran sentido como mostrable sin ver el codigo fuente, solo existen aqui para demostrar lo que se hizo en clases.
-- [Practica CSS](https://avacco.github.io/Modulo2/Apuntes_varios/css.html)
-- [Practica HTML](https://avacco.github.io/Modulo2/Apuntes_varios/index.html)
-- [Practica con Bootstrap](https://avacco.github.io/Modulo2/Bootstrap_practica/index.html)
-- [Practica con Javascript](https://avacco.github.io/Modulo2/Javascript_practica/index.html)
-- [Practica con jQuery](https://avacco.github.io/Modulo2/jQuery_practica/jquery.practica.html)
-- [Alerta JS](https://avacco.github.io/Modulo2/Alerta_js/index.html)
-- [Uso de parent y children](https://avacco.github.io/Modulo2/jQuery_practica/padre_e_hijo.html)
-- [Desafio Login 30 minutos](https://avacco.github.io/Modulo2/DesafioLogin30min/tarealogin.index.html)
+
 - [Calculadora con JS](https://avacco.github.io/Modulo2/Desafio_Calculadora_JS/calculadora.html)
 - [Actividad caso "Centro Deportivo"](https://avacco.github.io/Modulo2/Tarea_principal/proyecto/index.html)
 - [Actividad final caso "Auto Limpio"](https://avacco.github.io/Actividad_final/AutoLimpio/index.html)
 
 
-## TRABAJOS MODULO 3
+## MÓDULO 3: FUNDAMENTOS DE BASES DE DATOS RELACIONALES
+No habia tomado apuntes mas alla de las piezas de codigo que escribia, cuando empecé a hacerlo lo hice desde un drive.
 [Link al drive con evidencias](https://drive.google.com/drive/u/1/folders/13mTvsWhjW2SQ2GkLl2vlP9FZ8I5QQYMn).
 
-## TRABAJOS MODULO 4
+## MÓDULO 4: FUNDAMENTOS DE PROGRAMACIÓN EN JAVA
+A este punto ya me habia familiarizado un poco mejor con git, github y los lenguajes que vamos aprendiendo.
 [Link al repositorio](https://github.com/avacco/Modulo-4-Fundamentos-Programacion-Java).
+
+## MÓDULO 5: DESARROLLO DE APLICACIONES WEB DINÁMICAS JAVA
+Me gusta pensar que me he puesto mas ordenado en cuanto a apuntes y trabajos.
+[Link al repositorio](https://github.com/avacco/Modulo-5-Desarrollo-web-Java).
