@@ -1,2 +1,2 @@
-# Modulo2
-Actividades Modulo 2 BOOTCAMP JAVA FULL STACK
+# Mostrables Modulo 2
+Un par de actividades mostrables del bootcamp Java full stack
