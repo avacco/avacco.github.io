@@ -29,3 +29,8 @@ A este punto ya me habia familiarizado un poco mejor con git, github y los lengu
 ## MÓDULO 5: DESARROLLO DE APLICACIONES WEB DINÁMICAS JAVA
 Me gusta pensar que me he puesto mas ordenado en cuanto a apuntes y trabajos. <br>
 - [Link al repositorio](https://github.com/avacco/Modulo-5-Desarrollo-web-Java).
+
+
+## MÓDULO 6: DESARROLLO DE APLICACIONES JEE CON SPRING FRAMEWORK
+¿En qué punto uno deja de sentirse abrumado por la inmensidad del mundo informatico?. <br>
+- [Link al repositorio](https://github.com/avacco/Modulo-5-Desarrollo-web-Java).
