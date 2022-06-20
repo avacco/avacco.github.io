@@ -34,3 +34,10 @@ Me gusta pensar que me he puesto mas ordenado en cuanto a apuntes y trabajos. <b
 ## MÓDULO 6: DESARROLLO DE APLICACIONES JEE CON SPRING FRAMEWORK
 ¿En qué punto uno deja de sentirse abrumado por la inmensidad del mundo informatico?. <br>
 - [Link al repositorio](https://github.com/avacco/Modulo-6-Desarrollo-App-con-Spring).
+
+## MÓDULO 7: DESARROLLO DE PORTAFOLIO DE UN PRODUCTO DIGITAL
+Cuando uno esta empezando y no tiene mucha experiencia le llega a dar verguenza mostrar sus novatadas. Pero quiero que a futuro sea algo que pueda ver con orgullo y alegrarme de que sucedió, porque aprendí mucho de esto. <br>
+- [Link al portafolio Behance](behance.net/andrsvargas17).
+
+## MÓDULO 8: DESARROLLO DE EMPLEABILIDAD EN LA INDUSTRIA DIGITAL 
+Finalmente llega el momento de vender el tiempo y las habilidades de uno.
