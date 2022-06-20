@@ -1,4 +1,4 @@
-# EN CONSTRUCCIÓN
+# Mi paso por el Bootcamp
 
 Sitio para recopilar los trabajos que he hecho durante el bootcamp.
 
@@ -32,7 +32,7 @@ Me gusta pensar que me he puesto mas ordenado en cuanto a apuntes y trabajos. <b
 
 
 ## MÓDULO 6: DESARROLLO DE APLICACIONES JEE CON SPRING FRAMEWORK
-¿En qué punto uno deja de sentirse abrumado por la inmensidad del mundo informatico?. <br>
+¿En qué punto uno deja de sentirse abrumado por la inmensidad del mundo informatico?. Creo que esta es la primera vez que sentí que lo que hacía tenia un uso practico real. <br>
 - [Link al repositorio](https://github.com/avacco/Modulo-6-Desarrollo-App-con-Spring).
 
 ## MÓDULO 7: DESARROLLO DE PORTAFOLIO DE UN PRODUCTO DIGITAL
@@ -40,4 +40,9 @@ Cuando uno esta empezando y no tiene mucha experiencia le llega a dar verguenza 
 - [Link al portafolio Behance](behance.net/andrsvargas17).
 
 ## MÓDULO 8: DESARROLLO DE EMPLEABILIDAD EN LA INDUSTRIA DIGITAL 
-Finalmente llega el momento de vender el tiempo y las habilidades de uno.
+Finalmente llega el momento de vender el tiempo y las habilidades de uno. Nos tocó hacer un CV y registrarnos en varios sitios para aumentar nuestra visibilidad. El mas importante fue LinkedIn. <br>
+- [LinkedIn](https://www.linkedin.com/in/avacco/).
+- [Link a mi CV](https://github.com/avacco/avacco.github.io/blob/49ba8a914973076227fa38bcde822878fb0376de/CV_AV_spaV2.pdf).
+
+## CERTIFICACIÓN
+Finalmente, toca esperar a que nos den los resultados de la certificación. Espero con los dedos cruzados.
